@@ -1,5 +1,8 @@
 body {
   padding-top: 5rem;
+  text-align: center;
+  background-image: href=("Henna Collage.jpg")
+  background-repeat: repeat;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -8,4 +11,11 @@ body {
 .carousel-item img{
 max-height: 500px;
 
+}
+.row {
+  font-size: 12
+}
+.about-us {
+  padding: 6rem 3rem;
+  text-align: center;
 }
